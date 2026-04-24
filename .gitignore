@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+
+# Model weights (optional if large)
+models/*.pth
+
+# Uploads & results (dynamic files)
+uploads/
+results/
+
+# OS files
+.DS_Store
+Thumbs.db
